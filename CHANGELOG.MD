@@ -1,3 +1,7 @@
+# 1.3.4
+- Updated to Geode 5.3.0
+- Refined desktop pause/retry state handling and added death-focus zoom with additional stability fixes
+
 # 1.3.3
 - Fixed compatibility with Better Touch Priority (Shout out [undefined0](https://github.com/undefined06855) for the help)
 
